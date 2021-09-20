@@ -1,0 +1,2 @@
+# MAZIE
+Ez mazes
